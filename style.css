@@ -168,11 +168,11 @@ footer a {
     /** #1f5de3;**/
 }
 
-img {
+/**img {
   width: 350px;
   border-radius: 58% 42% 70% 30% / 46% 61% 39% 54%; 
   margin: 90px 50px;
-}
+}**/
 
 .card {
   width: 24%;
