@@ -251,6 +251,9 @@ footer a {
     display: block;
     text-align: left;
   }
+  .logo {
+    display:none;
+    }
 }
 
 
