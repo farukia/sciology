@@ -228,6 +228,9 @@ footer a {
   .card {
     width: 75%;
   }
+  .logo {
+    display:none;
+    }
 }
 
 @media screen and (max-width: 600px) {
