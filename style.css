@@ -18,6 +18,7 @@ body {
   /** #1f5de3; **/
   overflow: hidden;
   margin: 0;
+  height: 80px;
 }
 
 .navbar a {
@@ -25,7 +26,7 @@ body {
   display: block;
   color: #ddd;
   text-align: center;
-  padding: 18px 20px;
+  padding: 30px 20px;
   text-decoration: none;
   font-size: 17px;
   transition-duration: 0.5s;
@@ -36,7 +37,7 @@ body {
   display:block;
   color: #ddd;
   text-align: center;
-  padding: 18px 20px;
+  padding: 30px 20px;
   text-decoration: none;
   font-size: 17px;
   transition-duration:none;
