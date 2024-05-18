@@ -42,6 +42,10 @@ body {
   transition-duration:none;
 }
 
+.logo {
+  display: block;
+  }
+
 .navbar a:hover {
   color: white;
   transition-duration: 0.5s;
