@@ -30,6 +30,7 @@ body {
   font-size: 17px;
   transition-duration: 0.5s;
   text-emphasis: bold;
+  font-weight: bold;
 }
 
 .navbar .left {
