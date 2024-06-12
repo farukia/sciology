@@ -20,7 +20,7 @@ table {
 
 td, tr {
   padding: 10px;
-  float:left;
+  text-align: left;
 }
 
 .navbar {
