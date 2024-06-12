@@ -16,7 +16,7 @@ body {
 table {
   border: none;
   font-size: 17px;
-  margin: 20 auto;
+  margin: 0 auto;
 }
 
 td, tr {
@@ -27,7 +27,7 @@ td, tr {
 th,td{
   margin-left: 10px;
   margin-right: 10px;
-  padding: 20px;
+  padding: 10px;
 }
 
 
