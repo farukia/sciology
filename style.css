@@ -20,6 +20,7 @@ table {
 
 td, tr {
   padding: 10px;
+  float: none;
   text-align: left;
 }
 
