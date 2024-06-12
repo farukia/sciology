@@ -16,13 +16,19 @@ body {
 table {
   border: none;
   font-size: 17px;
+  margin: 50px;
 }
 
 td, tr {
-  padding: 10px;
   float: none;
   text-align: left;
 }
+
+tr {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 
 .navbar {
   background-color: #16b8c4; 
