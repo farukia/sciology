@@ -13,6 +13,10 @@ body {
   margin: 0;
 }
 
+table {
+  border: none;
+}
+
 .navbar {
   background-color: #16b8c4; 
   /** #1f5de3; **/
