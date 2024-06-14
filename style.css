@@ -16,7 +16,8 @@ body {
 table {
   border: none;
   font-size: 17px;
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 td, tr {
