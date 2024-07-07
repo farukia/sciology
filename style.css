@@ -107,6 +107,10 @@ h2 {
   padding:5% 0;
   }
 
+table {
+  margin-left: 20px;
+}
+
 .leftcontainer {
   width: 60%;
   float:left;
