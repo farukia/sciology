@@ -112,13 +112,13 @@ table {
 }
 
 .leftcontainer {
-  width: 50%;
+  width: 48%;
   float:left;
   display: block;
 }
 
 .rightcontainer {
-  width: 50%;
+  width: 48%;
   float:right;
   text-align: right;
   display: block;
