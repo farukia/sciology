@@ -7,6 +7,7 @@ html {
   font-family: 'Montserrat',sans-serif;
   background-color: whitespoke;
   margin: 0;
+  overflow-x: hidden;
 }
 
 .logo {
