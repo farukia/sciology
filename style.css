@@ -112,13 +112,13 @@ table {
 }
 
 .leftcontainer {
-  width: 60%;
+  width: 50%;
   float:left;
   display: block;
 }
 
 .rightcontainer {
-  width: 60%;
+  width: 50%;
   float:right;
   text-align: right;
   display: block;
@@ -167,23 +167,31 @@ button {
 }
 
 button:hover {
-  box-shadow: inset 400px 0 0 0 #003366;
-    /** #1f5de3; **/
   transition: 0.4s;
   color: white;
 }
 
 .white{
-  border:10px solid whitesmoke;
+  border:10px solid #16b8c4;
   color: whitesmoke;
   border-radius: 30px;
   font-size: 25px;
-  background-color: transparent;
+  background-color: #16b8c4;
   padding: 15px;
   margin: 50px;
   transition: 0.4s;
   display: inline-block;
 }
+
+.white:hover {
+  
+  transition: 0.4s;
+  background-color: transparent;
+  color: #16b8c4;
+  
+    /** #1f5de3;**/
+}
+
 
 footer {
   background-color: #003366;
@@ -211,11 +219,24 @@ h4{
   text-align: center;
 }
 
-.white:hover {
-  box-shadow: inset 400px 0 0 0 whitesmoke;
-  transition: 0.4s;
-  color: #003366;
-    /** #1f5de3;**/
+.arrow {
+  font-size: 30px;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 100%;
+  border:5px solid #16b8c4;
+  background-color: #16b8c4;
+  color: white;
+  user-select: none;
+  transition-duration: 0.4s;
+}
+.arrow:hover {
+  cursor: pointer;
+  background-color:white;
+  color: #16b8c4;
+  transition-duration: 0.4s;
 }
 
 /**img {
@@ -256,6 +277,7 @@ h4{
 .card h2 {
   margin-top: 0;
 }
+
 
 @media screen and (max-width: 480px) {
   .leftcontainer {
