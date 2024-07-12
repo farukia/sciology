@@ -2,7 +2,7 @@ var cardNum = 0
 
 var events = ["Entomology", "Codebusters", "Disease Detectives", "Anatomy & Physiology", "Microbe Mission", "Optics", "Fossils"]
 
-var descriptions = ["Bugs - mysteries of the insect world", "Crack the codes under a time limit?", "Investigate outbreaks", "Explore the body's wonders", "Microscopic tiny things you can't see", "It's all light, lenses, and rainbows", "Prehistoric organisms - like dinosaurs"]
+var descriptions = ["Learn about the creepy crawlies", "Can you crack the codes?", "Investigate outbreaks", "Explore the body's wonders", "Microscopic tiny things you can't see", "It's all sunshine and rainbows", "Prehistoric organisms - like dinosaurs"]
 
 var card = document.getElementById('card')
 
