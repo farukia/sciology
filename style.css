@@ -167,6 +167,10 @@ button {
   cursor:pointer;
 }
 
+a {
+text-decoration: none;
+}
+
 button:hover {
   transition: 0.4s;
   color: white;
