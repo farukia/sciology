@@ -293,7 +293,12 @@ h4{
   margin: 0 auto; 
   margin-bottom: 50px; 
   width: 75%;
+  display: block;
 }
+
+#intro-button {
+  display: block;
+  }
 
 
 @media screen and (max-width: 480px) {
@@ -325,9 +330,11 @@ h4{
     padding-bottom: 10px;
   }
     #highlights {
-    margin: 5px;
-    width: 100%;
+    display: none;
   }
+  #intro-button {
+    display: none;
+    }
 }
 
 @media screen and (max-width: 600px) {
