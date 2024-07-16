@@ -332,9 +332,6 @@ h4{
     #highlights {
     display: none;
   }
-  #intro-button {
-    display: none;
-    }
 }
 
 @media screen and (max-width: 600px) {
