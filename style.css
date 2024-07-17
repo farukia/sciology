@@ -300,6 +300,10 @@ h4{
   display: block;
   }
 
+  #sponsors {
+    width: 250px;
+  }
+
 
 @media screen and (max-width: 480px) {
   .leftcontainer {
@@ -333,7 +337,7 @@ h4{
     display: none;
   }
   #sponsors {
-    height: 100px;
+    width: 100px;
   }
 }
 
