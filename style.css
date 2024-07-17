@@ -301,7 +301,7 @@ h4{
   }
 
   #sponsors {
-    width: 250px;
+    width: 400px;
   }
 
 
@@ -331,13 +331,13 @@ h4{
     margin-right: 10px;
   }
   #bottom-logo {
-    padding-bottom: 10px;
+    padding-top: 50px;
   }
     #highlights {
     display: none;
   }
   #sponsors {
-    width: 100px;
+    width: 250px;
   }
 }
 
