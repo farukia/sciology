@@ -332,6 +332,9 @@ h4{
     #highlights {
     display: none;
   }
+  #sponsors {
+    height: 100px;
+  }
 }
 
 @media screen and (max-width: 600px) {
