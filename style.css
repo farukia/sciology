@@ -304,6 +304,8 @@ h4{
     width: 400px;
   }
 
+  #footer-table {
+  }
 
 @media screen and (max-width: 480px) {
   .leftcontainer {
@@ -332,12 +334,16 @@ h4{
   }
   #bottom-logo {
     padding-top: 50px;
+    padding-bottom: 5px;
   }
     #highlights {
     display: none;
   }
   #sponsors {
     width: 250px;
+  }
+  #footer-table {
+    margin-left: 5px;
   }
 }
 
