@@ -307,6 +307,22 @@ h4{
   #footer-table {
   }
 
+.flashcard:hover {
+  cursor: pointer;
+}
+
+#events-content{
+  display: none;
+  overflow: scroll;
+}
+
+#events-title {
+  display: grid;
+  overflow: scroll;
+  width: 110%;
+}
+
+
 @media screen and (max-width: 480px) {
   .leftcontainer {
     width: 100%;
