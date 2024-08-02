@@ -311,12 +311,12 @@ h4{
   cursor: pointer;
 }
 
-#events-content{
+#description {
   display: none;
   overflow: scroll;
 }
 
-#events-title {
+#term {
   display: grid;
   overflow: scroll;
   width: 110%;
