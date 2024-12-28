@@ -348,6 +348,7 @@ h4{
 
   .blogposts img { 
     width: 200px; 
+    border-radius: 20px;
   }   
     
   .post-container { 
