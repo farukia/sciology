@@ -325,7 +325,7 @@ h4{
   .blogposts { 
     padding: 20px 20px 20px 20px; 
     text-align: center; 
-    color: black; 
+    color: #123369; 
     font-size: 20px; 
     width: 300px; 
     border-radius: 40px; 
@@ -333,7 +333,7 @@ h4{
     display: inline-block; 
     margin-top: 30px; 
     transition-duration: 0.5s; 
-    box-shadow: 0 0px 15px #003366; 
+    box-shadow: 0 0px 15px #16b8c4; 
   } 
   .blogposts:hover { 
     -moz-transform: translate(0px, -10px); 
@@ -341,7 +341,7 @@ h4{
     -o-transform: translate(0px, -10px); 
     -webkit-transform: translate(0px, -10px); 
     transform: translate(0px, -10px); 
-    box-shadow: 0 0px 20px #003366; 
+    box-shadow: 0 0px 20px #16b8c4; 
   } 
 
   .blogposts img { 
@@ -353,7 +353,6 @@ h4{
     font-weight: 100;
     padding: 20px;
     text-align:center;
-    background-color: #123369;
     overflow-y:visible;
   }
 
