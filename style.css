@@ -333,7 +333,7 @@ h4{
     display: inline-block; 
     margin-top: 30px; 
     transition-duration: 0.5s; 
-    box-shadow: 0 0px 15px #16b8c4; 
+    box-shadow: 12px 12px 0px 1px #16b8c4; 
   } 
   .blogposts:hover { 
     -moz-transform: translate(0px, -10px); 
@@ -341,7 +341,7 @@ h4{
     -o-transform: translate(0px, -10px); 
     -webkit-transform: translate(0px, -10px); 
     transform: translate(0px, -10px); 
-    box-shadow: 0 0px 20px #16b8c4; 
+    box-shadow:  14px 17px 0px 1px #16b8c4; 
   } 
 
   .blogposts img { 
