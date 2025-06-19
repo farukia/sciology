@@ -359,6 +359,17 @@ h4{
     overflow-y:visible;
   }
 
+  .join {
+    margin-top: 20px;
+    margin: 0 auto;
+    display: block;
+    width: 75%;
+  }
+
+  .join button {
+    background-color: #16b8c4;
+  }
+
 
 
 @media screen and (max-width: 480px) {
