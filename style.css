@@ -8,6 +8,7 @@ html {
   background-color: whitespoke;
   margin: 0;
   overflow-x: hidden;
+
 }
 
 .logo {
@@ -262,6 +263,13 @@ h4{
   margin: 20px;
   transition-duration: 0.5s;
   float: left;
+  aspect-ratio: 1/1;
+}
+
+.card-container {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .card p {
@@ -313,12 +321,14 @@ h4{
 
 #description {
   display: none;
-  overflow: scroll;
+  overflow-y: scroll;
+  height: 200px;;
+  overflow-x: hidden;
 }
 
 #term {
   display: grid;
-  overflow: scroll;
+  overflow: hidden;
   width: 110%;
 }
 
@@ -409,6 +419,9 @@ h4{
   }
   #footer-table {
     margin-left: 5px;
+  }
+  html {
+    overflow-x: hidden;
   }
 }
 
